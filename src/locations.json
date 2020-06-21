@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Cafe Coffee Day ",
+        "address": "Cafe Coffee Day - The Lounge3.6",
+        "url": "http://www.jojorestaurantnyc.com/",
+        "position": {"lat": 17.440391,"lng": 78.393379}
+    },
+    {
+        "name": "Paradise Biryani",
+        "address": "Paradise Biryani | Kukatpally",
+        "url": "https://www.paradisefoodcourt.in/contact.html",
+        "position": {"lat":17.407867,"lng": 78.597897}
+    },
+    {
+        "name": "Kritunga Restaurant",
+        "address": "Kritunga Restaurant, Kukatpally,",
+        "url": "http://www.lavony.com/",
+        "position": {"lat": 17.495593 ,"lng": 78.399281}
+    },
+    {
+        "name": "Gravity Hotel",
+        "address": "Gravity Hotel Hyderabad",
+        "url": "https://www.benihana.com/locations/newyorkwest-ny-we/",
+        "position": {"lat":17.429630,"lng": 78.413162}
+    },
+    {
+        "name": "Bawarchi, Nallakunta,",
+        "address": "Bawarchi, Nallakunta,",
+        "url": "http://www.patsys.com/",
+        "position": {"lat": 40.7656201,"lng": -73.984939117}
+    },
+    {
+        "name": "Biryani Pot",
+        "address": "1 Central Park West, New York, NY 10023, USA",
+        "url": "http://www.jean-georgesrestaurant.com/",
+        "position": {"lat": 40.7690295,"lng": -73.983814217}
+    },
+    {
+        "name": "Landmarc",
+        "address": "10 Columbus Cir #3, New York, NY 10019, USA",
+        "url": "http://landmarc-restaurant.com/",
+        "position": {"lat": 40.7685566,"lng": -73.985375317}
+    }
+    
+]
